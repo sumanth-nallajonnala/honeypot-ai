@@ -171,18 +171,18 @@ API_KEY=sk_honeypot_2026_secret
 
 ## 🧾 Evaluation Readiness Checklist
 
-✅ Public API endpoint
-✅ API key authentication enabled
-✅ Correct JSON request/response format
-✅ Stable cloud deployment
-✅ Swagger documentation accessible
+* ✅ Public API endpoint
+* ✅ API key authentication enabled
+* ✅ Correct JSON request/response format
+* ✅ Stable cloud deployment
+* ✅ Swagger documentation accessible
 
 ---
 
 ## 👨‍💻 Author
 
-**Sumanth Nallajonnala**
-Built as part of the *Agentic HoneyPot API Challenge* 🚀
+* **Sumanth Nallajonnala**
+* Built as part of the *Agentic HoneyPot API Challenge* 🚀
 
 ---
 
